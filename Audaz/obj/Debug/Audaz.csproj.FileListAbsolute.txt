@@ -1,0 +1,8 @@
+C:\estudo\net\Audaz\Audaz\bin\Debug\Audaz.exe.config
+C:\estudo\net\Audaz\Audaz\bin\Debug\Audaz.exe
+C:\estudo\net\Audaz\Audaz\bin\Debug\Audaz.pdb
+C:\estudo\net\Audaz\Audaz\obj\Debug\Audaz.csproj.AssemblyReference.cache
+C:\estudo\net\Audaz\Audaz\obj\Debug\Audaz.csproj.SuggestedBindingRedirects.cache
+C:\estudo\net\Audaz\Audaz\obj\Debug\Audaz.csproj.CoreCompileInputs.cache
+C:\estudo\net\Audaz\Audaz\obj\Debug\Audaz.exe
+C:\estudo\net\Audaz\Audaz\obj\Debug\Audaz.pdb
